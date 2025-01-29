@@ -15,7 +15,7 @@ Click on the button to open the notebook in Google Colab. Then, save a copy in y
 
 - Part 2 Experiment 2.1: Fine Tuning CLIP for Archaeological Imagery: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/2_experiment_2_finetune_clip_on_archaeological_imagery.ipynb)
 
-- Part 2 Experiment 2.2: Use a Custom Version of CLIP with LLM-CLIP: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb)
+- Part 2 Experiment 2.2: Use a Custom Version of CLIP with LLM-CLIP: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/2_experiment_2_Use_ArchaeoCLIP_in_a_notebook.ipynb)
 
 - Part 2 Experiment 2.3: Fine Tuning IDEFICS for Data Extraction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/2_experiment_2_part_2_finetune_multimodal_model.ipynb)
 
