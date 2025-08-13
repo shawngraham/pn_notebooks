@@ -3,7 +3,7 @@ Supporting Notebooks
 
 Click on the button to open the notebook in Google Colab. Then, save a copy in your own drive and work on that copy so you can make changes, alterations, etc.
 
-- Hands On Exercise 1: Resurrecting Flinders Petrie: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/1_hands_on_1_flinders_petrie.ipynb)
+- Hands On Exercise 1: Echoes of Flinders Petrie: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/1_hands_on_1_flinders_petrie.ipynb)
 
 - Hands On Exercise 2: Image Datafication Experiment with PixPlot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shawngraham/pn_notebooks/blob/main/1_hands_on_2_image_datafication_experiment.ipynb)
 
