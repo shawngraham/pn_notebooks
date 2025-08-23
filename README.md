@@ -1,5 +1,7 @@
 # pn_notebooks
-Supporting Notebooks
+Supporting Notebooks For Graham, S. 2025. _Practical Necromancy for Beginners_. 
+
+[![DOI](https://zenodo.org/badge/923803872.svg)](https://doi.org/10.5281/zenodo.16934309)
 
 Click on the button to open the notebook in Google Colab. Then, save a copy in your own drive and work on that copy so you can make changes, alterations, etc.
 
